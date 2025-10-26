@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pthread -Wl,--dependency-file=CMakeFiles/img_worker.dir/link.d CMakeFiles/img_worker.dir/src/worker.cpp.o CMakeFiles/img_worker.dir/src/pgm.cpp.o -o img_worker

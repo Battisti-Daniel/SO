@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -pthread -Wl,--dependency-file=CMakeFiles/img_sender.dir/link.d CMakeFiles/img_sender.dir/src/sender.cpp.o CMakeFiles/img_sender.dir/src/pgm.cpp.o -o img_sender

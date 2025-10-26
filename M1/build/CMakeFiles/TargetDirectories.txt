@@ -1,0 +1,4 @@
+/home/daniel/Desktop/SO/M1/build/CMakeFiles/img_sender.dir
+/home/daniel/Desktop/SO/M1/build/CMakeFiles/img_worker.dir
+/home/daniel/Desktop/SO/M1/build/CMakeFiles/edit_cache.dir
+/home/daniel/Desktop/SO/M1/build/CMakeFiles/rebuild_cache.dir
